@@ -21,6 +21,11 @@ In the initial data preparation stage, I performed the following task;
 3. Renamed the 'id' column to 'emp_id'
 4. Changed the data types as appropriate as well as changing the date format of the columns with date
 5. Created a new column 'age' which contains the calculated age of the employees
+6. Analyzed data by answering different exploratory data analysis questions as well as exporting the data acquired from the result of the analysis
+
+### Data Visualization
+
+Data visualization was done in PowerBI. All the exported data from MySQL were uploaded into the data model of the PowerBI and a dashboard consisting of barcharts, clustered barchats, map, table, donut chart and linechart was created.
 
 ### Exploratory Data Analysis
 
