@@ -68,7 +68,7 @@ group by department;
 
 The analysis results are as summarized as follows:
 - 803 people are 65 years old or older which means they are close to retiring and the company should plan to hire much more younger people to replace them.
-- Ohio has the most employees which is more than 25 times the second state in that ranking so the management should consider transfering some of the staff from ohio across other states.
+- Ohio has the most employees which is over 25 times more than the second state in that ranking so the management should consider transfering some of the staff from ohio across other states.
 - Product management department has the lowest average tenure in the company so the management might want to check why employee's tenure don't last long in the department.
     
 
