@@ -25,7 +25,7 @@ In the initial data preparation stage, I performed the following task;
 
 ### Data Visualization
 
-Data visualization was done in PowerBI. All the exported data from MySQL were uploaded into the data model of the PowerBI and a dashboard consisting of barcharts, clustered barchats, map, table, donut chart and linechart was created.
+Data visualization was done in PowerBI. All the exported data from MySQL were uploaded into the data model of the PowerBI and a dashboard consisting of barcharts, clustered barchats, map, table, donut chart and linechart were created.
 
 ### Exploratory Data Analysis
 
